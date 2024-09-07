@@ -36,6 +36,31 @@ body {
     font-size: 24px;
 }
 
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+.hero-left h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-left p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-left button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    width: 90px;
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+}
+
 ul {
     display: flex;
     margin: 0px;
@@ -45,4 +70,5 @@ ul {
     font-size: 18px;
     color: #E5E7EB;
 }
+
 
