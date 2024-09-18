@@ -47,7 +47,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 10px;
+    gap: 100px;
     width: 100%;
     height: 300px;
 }
@@ -62,13 +62,15 @@ body {
 
 .hero-left h1 {
     color: #F9FAF8;
-    margin-top: 0px;
+    margin: 0px;
     font-size: 48px;
     font-weight: 900;
 }
 
 .hero-left p {
     font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 15px;
     color: #E5E7EB;
 }
 
